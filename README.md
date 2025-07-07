@@ -19,24 +19,6 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
-### 🙋‍♂️ About Me
-
-- 🎓 B.Tech in Information Technology (MAKAUT)  
-- 🧠 Learning C, C++, HTML, CSS, DSA & Cybersecurity  
-- 💻 I use Git & GitHub daily  
-- 🎯 Goal: Become a Cybersecurity Specialist  
-- 📸 Photographer by hobby  
-
----
-
-### 🔧 Languages & Tools I Use
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,git,github,vscode,linux" />
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
