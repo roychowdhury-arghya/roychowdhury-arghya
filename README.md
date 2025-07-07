@@ -59,9 +59,9 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 ---
 
-### 💡 Fun Fact  
-> _Some codes are written for the world. Some... just for someone who’ll never know._ 🌸
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F97DB5&center=true&vCenter=true&width=700&lines=Some+codes+are+written+for+the+world.;Some...+just+for+someone+who’ll+never+know.+🌸" alt="Poetic Typing" />
+</p>
 
 
 
