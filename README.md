@@ -30,8 +30,6 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 ### 📍 Connect with Me
 
-### 📍 Connect with Me
-
 <p align="center">
   <a href="mailto:arghyarancho@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-arghyarancho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -60,8 +58,9 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=F97DB5&center=true&vCenter=true&width=700&lines=Some+codes+are+written+for+the+world.;Some...+just+for+someone+who’ll+never+know.+🌸" alt="Poetic Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4500&pause=2000&color=FFD3EC&center=true&vCenter=true&width=600&lines=🌼+You+inspire+more+than+just+my+code." />
 </p>
+
 
 
 
