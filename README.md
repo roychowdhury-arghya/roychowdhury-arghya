@@ -30,10 +30,32 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 ### 📍 Connect with Me
 
+### 📍 Connect with Me
+
 <p align="center">
-  <a href="https://github.com/roychowdhury-arghya"><img src="https://img.shields.io/badge/GitHub-roychowdhury--arghya-181717?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-ArghyaPhotography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:arghyarancho@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-arghyarancho%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/roychowdhury_arghya/">
+    <img src="https://img.shields.io/badge/Instagram-roychowdhury__arghya-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/roychowdhury_ar">
+    <img src="https://img.shields.io/badge/Twitter-roychowdhury__ar-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/people/Arghya-Roy-Chowdhury/pfbid02f96YNo1EYkRY3o2Gz7fEnkd4ZqisghXiKTtVShZH5kxHvxuS7Q4f3Ss4KnJ2niE9l/?rdid=e8JcwdpmQPAmoYEg&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1KEyeyEPQt%2F">
+    <img src="https://img.shields.io/badge/Facebook-Arghya--Roy--Chowdhury-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@roychowdhury_arghya">
+    <img src="https://img.shields.io/badge/Threads-roychowdhury__arghya-000000?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/argha-roy-chowdhury-82718632b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Arghya%20Roy%20Chowdhury-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://hashnode.com/@roychowdhury-arghya">
+    <img src="https://img.shields.io/badge/Hashnode-@roychowdhury--arghya-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
