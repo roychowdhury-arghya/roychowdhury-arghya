@@ -59,13 +59,9 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 ---
 
-### 🧠 Fun Fact
+### 💡 Fun Fact  
+> _Some codes are written for the world. Some... just for someone who’ll never know._ 🌸
 
-> “There’s always a brighter sun after the darkest rain — and I code like that.” 🌧️☀️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
-</p>
 
 
 
