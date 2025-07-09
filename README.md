@@ -52,6 +52,9 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
   <a href="https://hashnode.com/@roychowdhury-arghya">
     <img src="https://img.shields.io/badge/Hashnode-@roychowdhury--arghya-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
+  <a href="https://dev.to/arghya_roychowdhury">
+    <img src="https://img.shields.io/badge/DEV.to-@arghya__roychowdhury-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </p>
 
 
