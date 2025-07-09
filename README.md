@@ -1,7 +1,7 @@
 Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 - 🔭 Studying at MAKAUT ( 2nd Semester, B Tech Information Technology )
 - 🌱 Tech Skills : 'C', 'HTML', 'CSS', 'Canva'.
-- 👯 Learning C++(DSA) & Js.
+- 👯 Learning C++(DSA) & Js..
 - 🤔Interests : Web Dev, Android Dev (Soon), Cybersecurity.
 - 😄 Pronouns: He/Him.
 - 💬 Hobby and passions .
