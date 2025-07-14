@@ -1,4 +1,13 @@
+     ## 👋 Hi, I'm Arghya Roy Chowdhury
 
+- 🎓 **B.Tech IT Student** | MAKAUT (2nd Semester)
+- 💻 Tech Stack: `C`, `HTML`, `CSS`, `Canva`
+- 🚀 Currently Learning: `C++ (DSA)`, `JavaScript`
+- 🧠 Interested in: Web Development, Android (soon), Cybersecurity
+- 💬 Ask me about: Anything tech or creative!
+- 🎨 Hobbies: Photography 📸, Diary Writing 📒, Story/Poem Writing 📖, Tabla 🥁, Sketching ✏️
+
+---
 
 <h1 align="center">
   Hi 👋, I'm Arghya Roy Chowdhury  
@@ -68,7 +77,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FBB1D1&center=true&vCenter=true&width=700&lines=Some+codes+are+written+for+the+world.;Some...+just+for+someone+who%E2%80%99ll+never+know." />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=600&lines=You+inspire+more+than+just+my+code." />
 </p>
