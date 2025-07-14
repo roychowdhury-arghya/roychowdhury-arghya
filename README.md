@@ -67,7 +67,7 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=600&lines=🌼+You+inspire+more+than+just+my+code." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=600&lines=You+inspire+more+than+just+my+code." />
 </p>
 
 <!-- 🌼 You inspire more than just my code. -->
