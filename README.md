@@ -18,11 +18,6 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roychowdhury-arghya&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roychowdhury-arghya&theme=tokyonight&hide_border=false" height="160px"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roychowdhury-arghya&theme=tokyonight" />
 </p>
 
