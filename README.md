@@ -23,6 +23,10 @@ Hi there 👋 I'm Argha Roy Chowdhury (@roychowdhury-arghya)
 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roychowdhury-arghya&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count"/>
+</p>
+
 
 ### 📍 Connect with Me
 
