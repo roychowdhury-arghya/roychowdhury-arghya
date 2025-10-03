@@ -2,7 +2,7 @@
 
 - 🎓 **B.Tech IT Student** | MAKAUT (2nd Semester)
 - 💻 Tech Stack: `C`, `HTML`, `CSS`, `Canva`, `javascript`
-- 🚀 Currently Learning: `C++ (DSA)`, `react` , `backend`
+- 🚀 Currently Learning: `C++ (DSA)`, `MERN`
 - 🧠 Interested in: Web Development, Android (soon), Cybersecurity
 - 💬 Ask me about: Anything tech or creative!
 - 🎨 Hobbies: Photography 📸, Diary Writing 📒, Story/Poem Writing 📖, Tabla 🥁, Sketching ✏️
