@@ -12,7 +12,7 @@
 <h1 align="center">
   Hi 👋, I'm Arghya Roy Chowdhury  
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+Cybersecurity+Specialist;Learning+DSA%2C+C%2B%2B%2C+MERN+%26+CSS;Loves+Photography+%F0%9F%93%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Aspiring+Cybersecurity+Specialist;Learning+DSA%2C+C%2B%2B%2C+MERN+%26;Loves+Photography+%F0%9F%93%B8" alt="Typing SVG" />
 </h1>
 
 ### 📊 GitHub Stats
