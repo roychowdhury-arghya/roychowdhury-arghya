@@ -74,7 +74,7 @@
 ### 💡 Fun Fact
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FBB1D1&center=true&vCenter=true&width=700&lines=Some+codes+are+written+for+the+world.;Some...+just+for+someone+who%E2%80%99ll+never+know." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FBB1D1&center=true&vCenter=true&width=700&lines=Some...+just+for+someone+who%E2%80%99ll+never+know." />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=3000&color=CCCCCC&center=true&vCenter=true&width=600&lines=You+inspire+more+than+just+my+code" />
