@@ -1,6 +1,6 @@
      ## 👋 Hi, I'm Arghya Roy Chowdhury
 
-- 🎓 **B.Tech IT Student** | MAKAUT (2nd Semester)
+- 🎓 **B.Tech IT Student** | MAKAUT (3rd Semester)
 - 💻 Tech Stack: `C`, `HTML`, `CSS`, `Canva`, `javascript`
 - 🚀 Currently Learning: `C++ (DSA)`, `MERN`
 - 🧠 Interested in: Web Development, Android (soon), Cybersecurity
