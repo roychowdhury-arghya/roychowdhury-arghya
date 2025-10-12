@@ -71,6 +71,12 @@
 
 ---
 
+### ⏳ My WakaTime
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/wakatime?username=roychowdhury-arghya&theme=tokyonight" />
+</p>
+
 ### 💡 Fun Fact
 
 <p align="center">
