@@ -71,10 +71,10 @@
 
 ---
 
-### ⏳ My WakaTime
+### 📈 Daily Development Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/wakatime?username=roychowdhury-arghya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WAKATIME_USERNAME&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
 ### 💡 Fun Fact
