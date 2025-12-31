@@ -3,7 +3,7 @@
 - 🎓 **B.Tech IT Student** | MAKAUT (3rd Semester)
 - 💻 Tech Stack: `C`, `HTML`, `CSS`, `Canva`, `javascript`
 - 🚀 Currently Learning: `C++ (DSA)`, `MERN`
-- 🧠 Interested in: Web Development, Android (soon), Cybersecurity
+- 🧠 Interested in: Web Development, Cybersecurity
 - 💬 Ask me about: Anything tech or creative!
 - 🎨 Hobbies: Photography 📸, Diary Writing 📒, Story/Poem Writing 📖, Tabla 🥁, Sketching ✏️
 
@@ -67,6 +67,10 @@
   <a href="https://dev.to/arghya_roychowdhury">
     <img src="https://img.shields.io/badge/DEV.to-@arghya__roychowdhury-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
+       <a href="https://discord.com/users/roychowdhury-arghya">
+    <img src="https://img.shields.io/badge/Discord-roychowdhury--arghya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+     
 </p>
 
 ---
