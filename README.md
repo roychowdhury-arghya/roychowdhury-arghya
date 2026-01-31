@@ -37,18 +37,14 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black" />
 </p>
 
-
----
-
----
-
 ---
 
 ### 📊 Most Used Code Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychowdhury-arghya&layout=compact&theme=tokyonight&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychowdhury-arghya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 
 
