@@ -17,10 +17,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roychowdhury-arghya&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=roychowdhury-arghya&theme=tokyonight&hide_border=false" height="160px"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roychowdhury-arghya&theme=tokyonight" />
@@ -39,6 +39,15 @@
 
 
 ---
+
+---
+
+### ⚡ Languages I Code With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+</p>
+
 
 ### 📍 Connect with Me
 
