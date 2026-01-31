@@ -17,11 +17,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roychowdhury-arghya&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=roychowdhury-arghya&theme=tokyonight&hide_border=false" height="160px"/>
-</p> -->
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roychowdhury-arghya&theme=tokyonight" />
 </p>
@@ -38,12 +33,6 @@
 </p>
 
 ---
-
-### 📊 Most Used Code Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychowdhury-arghya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
 
 
@@ -79,13 +68,6 @@
     <img src="https://img.shields.io/badge/Discord-roychowdhury--arghya-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
      
-</p>
-
----
-### 📈 Daily Development Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=roychowdhury-arghya&layout=compact&langs_count=10&theme=tokyonight" />
 </p>
 
 ---
