@@ -42,11 +42,14 @@
 
 ---
 
-### ⚡ Languages I Code With
+---
+
+### 📊 Most Used Code Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychowdhury-arghya&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
+
 
 
 ### 📍 Connect with Me
