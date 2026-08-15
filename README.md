@@ -1,4 +1,7 @@
-     ## 👋 Hi, I'm Arghya Roy Chowdhury
+# 👋 Hi, I'm Arghya Roy Chowdhury
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=roychowdhury-arghya&color=blue&style=flat-square)
 
 - 🎓 **B.Tech IT Student** | MAKAUT (3rd Semester)
 - 💻 Tech Stack: `C`, `HTML`, `CSS`, `Canva`, `javascript`
